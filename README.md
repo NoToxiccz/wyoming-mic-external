@@ -1,5 +1,7 @@
 # Wyoming External Microphone
 
+NoToxic copy test
+
 [Wyoming protocol](https://github.com/rhasspy/wyoming) server that runs an external program to get microphone input.
 
 The external program must stream raw PCM audio to its standard output, and its format must match the `--rate`, `--width`, and `--channel` arguments provided to the server.
